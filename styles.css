@@ -1,0 +1,17 @@
+body{
+    color: white;
+    background-color: black;
+
+}
+
+header {
+    border-bottom: solid 2px rgb(255 0 0 / 22%);
+    margin: 15px;
+    font-size: 25px;
+    color: #d10000;
+   
+}
+
+section{
+    margin: 25px;
+}
